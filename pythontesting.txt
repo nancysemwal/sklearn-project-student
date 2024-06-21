@@ -1,0 +1,4 @@
+
+Here (https://wiki.python.org/moin/PyQt/GUI_Testing) are some links which you can refer for automating your PyQT app GUI testing:
+
+This is a YouTube video (https://www.youtube.com/watch?v=WjctCBjHvmA) which demonstrates a simple app & writes 2 test cases for the GUI. You can find the link to his repo in the video description box.
